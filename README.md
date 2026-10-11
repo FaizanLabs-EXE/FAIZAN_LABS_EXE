@@ -1,3 +1,4 @@
+https://faizanlabs-exe.github.io/FAIZAN_LABS_EXE/
 # FAIZAN NEXUS AI
 
 A premium local-first developer intelligence and automation dashboard tailored for **FaizanLabs-EXE**.
